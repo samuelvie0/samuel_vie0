@@ -9,11 +9,9 @@
     --stroke-color: blue;
     --surface-color: black;
     --surface-color-hover: lightblue;
-    
     --suit: url(./assets/Desktop/moon-stars.svg);
     --butão: blue;
-    
- }
+    }
     
  .light{
     --text-color: black ;
